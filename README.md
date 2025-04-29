@@ -20,6 +20,10 @@ The overall framework of EGSTalker is illustrated as follows:
 
 ![EGSTalker Framework](./docs/framework.png)
 
+The Efficient Spatial-Audio Attention (ESAA) module structure:
+![EGSTalker Framework](./docs/ESAA.png)
+
+
 ## 📜 Paper
 
 > [Coming soon]
