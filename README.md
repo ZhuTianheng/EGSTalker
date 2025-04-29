@@ -17,7 +17,11 @@ This repository contains the official implementation of the paper:
 ## 📜 Paper
 
 > [Coming soon]
-> 
+
+## 📽️ Demo
+
+### Audio-Driven Talking Head Synthesis
+👉 [Download the demo video (EGSTalker.mp4)](https://github.com/ZhuTianheng/EGSTalker/raw/main/result-video/EGSTalker.mp4)
 <!--
 ## 📦 Installation
 
