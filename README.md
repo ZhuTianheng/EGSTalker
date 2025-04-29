@@ -18,7 +18,7 @@ This repository contains the official implementation of the paper:
 
 The overall framework of EGSTalker is illustrated as follows:
 
-![EGSTalker Framework](https://raw.githubusercontent.com/ZhuTianheng/EGSTalker/main/docs/framework.png)
+![EGSTalker Framework](./docs/framework.png)
 
 ## 📜 Paper
 
