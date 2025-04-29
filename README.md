@@ -14,6 +14,12 @@ This repository contains the official implementation of the paper:
 > [Author] Tianheng Zhu, Yinfeng Yu*, Liejun Wang, Fuchun Sun, Wendong Zheng  
 > (*Corresponding author)
 
+## 🧩 Framework
+
+The overall framework of EGSTalker is illustrated as follows:
+
+![EGSTalker Framework](./docs/framework.pdf)
+
 ## 📜 Paper
 
 > [Coming soon]
