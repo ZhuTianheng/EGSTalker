@@ -17,12 +17,14 @@ This repository contains the official implementation of the paper:
 ## 🧩 Framework
 
 The overall framework of EGSTalker is illustrated as follows:
-
-![EGSTalker Framework](https://raw.githubusercontent.com/ZhuTianheng/EGSTalker/main/docs/framework.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhuTianheng/EGSTalker/main/docs/framework.png" width="70%">
+</p>
 
 The Efficient Spatial-Audio Attention (ESAA) module structure:
-![ESAA Module](https://raw.githubusercontent.com/ZhuTianheng/EGSTalker/main/docs/esaa.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhuTianheng/EGSTalker/main/docs/esaa.png" width="70%">
+</p>
 
 ## 📜 Paper
 
