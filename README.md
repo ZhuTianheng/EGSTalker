@@ -121,7 +121,7 @@ python render.py -s ${YOUR_DATASET_DIR}/${DATASET_NAME} \
                  --model_path ${YOUR_MODEL_DIR} \
                  --configs configs/egstalker_default.py \
                  --iteration 10000 \
-                 --batch 128 \
+                 --batch 16 \
                  --custom_aud <custom_aud>.npy \
                  --custom_wav <custom_aud>.wav \
                  --skip_train \
